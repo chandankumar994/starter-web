@@ -3,7 +3,9 @@
 
 # TEAM
 
-    <name> -- Chandan Kumar -- <twitter>
+    Name : Chandan
+	Email: chandan@gmail.com
+	Role: DevOps Engineer
 
 # THANKS
 
