@@ -5,7 +5,7 @@
 
     Name : Chandan
 	Email: chandan@gmail.com
-	Role: DevOps Engineer
+	RDevOps Engineer
 
 # THANKS
 
@@ -14,5 +14,7 @@
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3, Angular
+<<<<<<< HEAD
     jQuery, Modernizr
 	Machine Learning, AWS, Google Cloud
+
