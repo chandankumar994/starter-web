@@ -5,7 +5,7 @@
 
     Name : Chandan
 	Email: chandan@gmail.com
-	Role: DevOps Engineer
+	RDevOps Engineer
 
 # THANKS
 
@@ -15,3 +15,4 @@
 
     HTML5, CSS3, Angular
     jQuery, Modernizr, Ajax
+	Docker, Java Programming
