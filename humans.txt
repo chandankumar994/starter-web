@@ -18,7 +18,7 @@ Hi going to insert conflicts in mybranch
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3, Angular
-<<<<<<< HEAD
+
     jQuery, Modernizr
 	Machine Learning, AWS, Google Cloud
 
