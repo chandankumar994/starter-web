@@ -2,6 +2,8 @@
 # The humans responsible & technology colophon
   Hi I am modifying the file before rebase.
 
+Hi going to insert conflicts in mybranch
+
 # TEAM
 
     Name : Chandan
