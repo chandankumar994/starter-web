@@ -4,7 +4,8 @@ This repository is for showing how Git and GitHub work
 
 ## Purpose
 
-Sample website with plenty of files for demos
+Alot of lecures are already submitted.
+Alot of lectures are still comming on.
 
 ##Contiribution
 Anand and deepa, adding sothething for rebase testing
